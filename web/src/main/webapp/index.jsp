@@ -82,19 +82,19 @@
 					</div>						
 				</li>
 		</div>
-		
+		<!--
 		<div class="portlet x12">
 			
 			<div class="portlet-header">
-				<h4>Welcome to SunCorps Open Insurance Services.</h4>
+				<h4>Welcome to SunCorp Open Insurance Services.</h4>
 			</div>
-			
+			-->
 
 			<div class="portlet-content">
 
 				<div id="search-bar">
 					<div id="search-left">
-					<h3>Welcome to your Open Insurance Services.</h3>
+					<h3>Welcome to your SunCorp Insurance Services.</h3>
 					</div>
 					<div id="search-right">
 					<form class="form" method="post" action="">
