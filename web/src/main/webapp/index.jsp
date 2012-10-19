@@ -84,11 +84,11 @@
 		</div>
 		
 		<div class="portlet x12">
-			<!--
+			
 			<div class="portlet-header">
-				<h4>Welcome to your Iain Podd's Open Insurance Services.</h4>
+				<h4>Welcome to SunCorps Open Insurance Services.</h4>
 			</div>
-			-->
+			
 
 			<div class="portlet-content">
 
