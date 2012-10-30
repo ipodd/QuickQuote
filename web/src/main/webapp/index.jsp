@@ -43,7 +43,7 @@
 
 			<ul class="mega-container mega-grey">
 	
-	<!--  
+	
 				<li class="mega mega-current">
 					<a href="#" class="mega-link">Agent Home</a>	
 				</li>
@@ -59,7 +59,7 @@
 				<li class="mega">
 					<a href="#" class="mega-link">Claims Service</a>	
 				</li>
-				-->
+			
 				<li class="mega">
 					<a href="#" class="mega-link">Know Insurance</a>	
 				</li>
