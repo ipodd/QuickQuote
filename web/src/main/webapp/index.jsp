@@ -86,7 +86,7 @@
 		<div class="portlet x12">
 			
 			<div class="portlet-header">
-				<h4>Welcome to SunCorp Open Insurance Services.</h4>
+				<h4>Welcome to Open Insurance Services.</h4>
 			</div>
 			-->
 
@@ -94,7 +94,7 @@
 
 				<div id="search-bar">
 					<div id="search-left">
-					<h3>Welcome to your SunCorp Insurance Services.</h3>
+					<h3>Welcome to your Insurance Services.</h3>
 					</div>
 					<div id="search-right">
 					<form class="form" method="post" action="">
