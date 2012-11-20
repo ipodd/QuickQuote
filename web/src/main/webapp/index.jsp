@@ -29,7 +29,7 @@
 		<div id="info">
 			<h4>Welcome, User:      </h4>
 			<p>
-				Logged in as Admin
+				Logged in as Admin and IPodd
 				<br />
 				You have <a href="javascript:;">5 messages</a>
 			</p>
