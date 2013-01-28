@@ -86,7 +86,7 @@
 		<div class="portlet x12">
 			
 			<div class="portlet-header">
-				<h4>Welcome to Open Insurance Services.</h4>
+				<h4>Welcome to IPodds Open Insurance Services.</h4>
 			</div>
 			-->
 
