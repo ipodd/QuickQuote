@@ -24,12 +24,12 @@
 <body>
     <div id="wrapper">
 	<div id="header">
-		<!--<h1><a href="#">Quick Quote 2</a></h1>-->
+		<!--<h1><a href="#">Quick Quote</a></h1>-->
 		<h1><%=appName%></h1>
 		<div id="info">
 			<h4>Welcome, User:      </h4>
 			<p>
-				Logged in as Admin and IPodd
+				Logged in as Admin and Iain Podd
 				<br />
 				You have <a href="javascript:;">5 messages</a>
 			</p>
