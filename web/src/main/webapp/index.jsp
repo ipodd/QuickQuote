@@ -4,7 +4,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
 	<META HTTP-EQUIV="Expires" CONTENT="-0">
-        <title>Iain Podd - QuickQuote</title>
+        <title>Iain Podd - QuickQuote number II </title>
         
         <link href="css/grid.css" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" href="css/grid.js.css" type="text/css" media="screen" title="no title" charset="utf-8" />
@@ -45,7 +45,7 @@
 	
 	
 				<li class="mega mega-current">
-					<a href="#" class="mega-link">Agent Home</a>	
+					<a href="#" class="mega-link">Agent Home IPodd </a>	
 				</li>
 	
 				<li class="mega">
